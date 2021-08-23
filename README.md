@@ -5,3 +5,5 @@
 * There will be two box in the UI which is current score and active score. 
 * Once any player is reaching till 100 points that player will be declared as winner. 
 * Again both players can play the game with just a simple click.
+
+
